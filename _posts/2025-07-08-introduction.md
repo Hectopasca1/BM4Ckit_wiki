@@ -9,7 +9,7 @@ tags: [getting started]
 pin: true
 ---
 
-![logo]({{ site.baseurl }}/assets/logo.png)
+![logo](https://raw.githubusercontent.com/TrinitroCat/BM4Ckit/main/logo.png)
 
 # BM4Ckit
 ## Batched Machine-learning for Catalysts kit
