@@ -8,12 +8,6 @@ categories: [Tutorials, Preprocessing]
 tags: [Preprocessing, load_files]
 ---
 
-<style>
-.post-content {
-  font-family: "Times New Roman", Times, serif;
-}
-</style>
-
 ## POSCARs2Feat
 
 (
