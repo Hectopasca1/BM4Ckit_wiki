@@ -1,7 +1,7 @@
 ---
 title: load_files
 description: >-
-  An introduction to load_files.py in Preprocessing
+  An introduction to the functions in /Preprocessing/load_files.py
 authors: [pengxin, xin]
 date: 2025-07-08 15:53:00 +0800
 categories: [Tutorials, Preprocessing]
