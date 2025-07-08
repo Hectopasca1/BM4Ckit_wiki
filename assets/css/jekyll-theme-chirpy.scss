@@ -3,17 +3,17 @@
 
 @use "main";
 
-/* 正文字体 */
+/* Normal texts */
 .post-content {
   font-family: "Times New Roman", Times, serif;
 }
 
-/* 标题字体 */
+/* Titles */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Times New Roman", Times, serif;
 }
 
-/* 代码字体 */
+/* Codes */
 pre, code, kbd, samp {
   font-family: Consolas, "Courier New", Courier, monospace;
 }
