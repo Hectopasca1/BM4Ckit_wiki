@@ -16,7 +16,7 @@ pin: true
 A Python-based package containing various tools for machine learning applied in catalytic chemistry, 
 including reading, writing, filtering, modifying, and format conversion of batched structure files, training ML models, model predictions, ML-potential-based batched structure optimisation and molecular dynamics, etc.
 
-Manuals webpage is now under construction. You can find the current manuals in [Manual](Manual/).
+Manuals webpage is now under construction. You can find the current manuals in [[Manual](Manual/)](https://github.com/TrinitroCat/BM4Ckit/tree/main/Manual).
 
 Please note that the project is still in an early version and may change significantly in the future.
 
