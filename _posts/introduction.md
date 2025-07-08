@@ -1,10 +1,14 @@
 ---
-title: Introduction
+title: Getting Started
 description: >-
-  A brief introduction to the BM4Ckit.
-author: Hao Yan
-date: 2025-07-08 13:41:00 +0800
+  Get started with Chirpy basics in this comprehensive overview.
+  You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
+author: cotes
+date: 2019-08-09 20:55:00 +0800
+categories: [Blogging, Tutorial]
+tags: [getting started]
 pin: true
+media_subpath: '/posts/20180809'
 ---
 
 ![image](logo.png)
