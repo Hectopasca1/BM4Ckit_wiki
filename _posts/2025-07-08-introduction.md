@@ -9,7 +9,7 @@ tags: [getting started]
 pin: true
 ---
 
-![logo](logo.png)
+![logo]({{ site.baseurl }}/_posts/logo.png)
 # BM4Ckit
 ## Batched Machine-learning for Catalysts kit
 A Python-based package containing various tools for machine learning applied in catalytic chemistry, 
