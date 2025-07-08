@@ -4,12 +4,9 @@ description: >-
   An introduction to load_files.py in Preprocessing
 author: Pengxin Pu
 date: 2025-07-08 15:53:00 +0800
-categories: [Tutorials]
-tags: [Preprocessing]
+categories: [Tutorials, Preprocessing]
+tags: [Preprocessing, load_files]
 ---
-
-# load_files
-This page is supposed to introduce functions in \Preprocessing\load_files.py
 
 ## POSCARs2Feat
 
