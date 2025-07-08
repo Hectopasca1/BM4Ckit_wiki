@@ -30,4 +30,4 @@ These following third-party libraries are optional:
 - **torch-geometric** (MIT License)
 - **ASE** (LGPL-v2.1 License) [ASE](https://gitlab.com/ase/ase/-/tree/master?ref_type=heads)
 
-See [[LICENSES/](LICENSES/)](https://github.com/TrinitroCat/BM4Ckit/tree/main/LICENSES) for full license texts.
+See [LICENSES](https://github.com/TrinitroCat/BM4Ckit/tree/main/LICENSES) for full license texts.
