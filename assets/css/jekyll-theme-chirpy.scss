@@ -7,17 +7,17 @@
 @use "main";
 {%- endif -%}
 
-/* Normal texts */
+/* 正文字体 */
 .post-content {
   font-family: "Times New Roman", Times, serif;
 }
 
-/* Titles */
+/* 标题字体 */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Times New Roman", Times, serif;
 }
 
-/* Codes */
+/* 代码字体 */
 pre, code {
-  font-family: "Courier New", Courier, monospace;
+  font-family: Consolas, "Courier New", Courier, monospace;
 }
