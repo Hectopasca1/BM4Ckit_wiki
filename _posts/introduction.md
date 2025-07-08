@@ -1,3 +1,14 @@
+---
+title: Introduction
+description: >-
+  A brief introduction to the BM4Ckit.
+author: Hao Yan
+date: 2025-07-08 13:41:00
+categories: [Blogging, Tutorial]
+tags: [getting started]
+pin: true
+---
+
 ![image](logo.png)
 # BM4Ckit
 ## Batched Machine-learning for Catalysts kit
