@@ -3,9 +3,7 @@ title: Introduction
 description: >-
   A brief introduction to the BM4Ckit.
 author: Hao Yan
-date: 2025-07-08 13:41:00
-categories: [Blogging, Tutorial]
-tags: [getting started]
+date: 2025-07-08 13:41:00 +0800
 pin: true
 ---
 
