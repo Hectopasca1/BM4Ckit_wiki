@@ -10,8 +10,11 @@
 
 /* append your custom style below */
 /* Normal texts */
-.post-content {
-  font-family: "Times New Roman", Times, serif;
+body,
+.post-content,
+.page-content,
+.content {
+  font-family: "Times New Roman", Times, serif !important;
 }
 
 /* Titles */
