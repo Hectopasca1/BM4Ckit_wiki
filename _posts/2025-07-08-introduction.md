@@ -11,7 +11,7 @@ pin: true
 
 ![logo](https://raw.githubusercontent.com/TrinitroCat/BM4Ckit/main/logo.png)
 
-**[# BM4Ckit](https://github.com/TrinitroCat/BM4Ckit)**
+# [BM4Ckit](https://github.com/TrinitroCat/BM4Ckit)
 ## Batched Machine-learning for Catalysts kit
 A Python-based package containing various tools for machine learning applied in catalytic chemistry, 
 including reading, writing, filtering, modifying, and format conversion of batched structure files, training ML models, model predictions, ML-potential-based batched structure optimisation and molecular dynamics, etc.
