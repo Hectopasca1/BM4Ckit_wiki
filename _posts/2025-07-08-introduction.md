@@ -2,7 +2,7 @@
 title: Introduction
 description: >-
   A brief introduction to BM4Ckit
-author: HaoYan
+authors: [pengxin, xin, hao]
 date: 2025-07-08 14:30:00 +0800
 categories: [Intro]
 tags: [getting started]
