@@ -1,4 +1,4 @@
----
+a---
 title: Introduction
 description: >-
   A brief introduction to BM4Ckit
@@ -31,7 +31,7 @@ A Python-based package containing various tools for machine learning applied in 
 - **ASE** (LGPL-v2.1 License) [ASE](https://gitlab.com/ase/ase/-/tree/master?ref_type=heads)
 
 ## Latest Version
-**[0.9a](https://github.com/TrinitroCat/BM4Ckit)**
+**[0.9a](https://github.com/TrinitroCat/BM4Ckit "0.9a")**
 
 ## Licenses
 See [LICENSES](https://github.com/TrinitroCat/BM4Ckit/tree/main/LICENSES) for full license texts.
