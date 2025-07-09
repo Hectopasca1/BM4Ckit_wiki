@@ -27,7 +27,7 @@ A Python-based package containing various tools for machine learning applied in 
 
 ### Optional:
 - **DGL** (Apache-2.3 License)
-- **torch-geometric** (MIT License)
+- **PyTorch Geometric** (MIT License)
 - **ASE** (LGPL-v2.1 License) [ASE](https://gitlab.com/ase/ase/-/tree/master?ref_type=heads)
 
 ## Latest Version
