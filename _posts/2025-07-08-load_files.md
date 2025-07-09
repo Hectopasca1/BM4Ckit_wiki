@@ -8,6 +8,8 @@ categories: [Tutorials, Preprocessing]
 tags: [Preprocessing, load_files]
 ---
 
+**Please note that all methods in *load_files.py* inherits *[BatchStructuresBase.py](https://hectopasca1.github.io/BM4Ckit_wiki/posts/BatchStructuresBase/)*.**
+
 ## POSCARs2Feat
 
 (
