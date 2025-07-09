@@ -12,13 +12,13 @@ tags: [Preprocessing, load_files]
 
 (
 
-`path`: <class 'str'> = ./
+`path`: `<class 'str'> = ./`
 
-`verbose`: <class 'int'> = 0
+`verbose`: `<class 'int'> = 0`
 
-`args`: <class 'inspect._empty'>
+`args`: `<class 'inspect._empty'>`
 
-`kwargs`: <class 'inspect._empty'>
+`kwargs`: `<class 'inspect._empty'>`
 
 )
 
@@ -30,9 +30,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`batch_structures`: <class 'inspect._empty'>
+`batch_structures`: `<class 'inspect._empty'>`
 
-`strict`: <class 'bool'> = True
+`strict`: `<class 'bool'> = True`
 
 )
 
@@ -61,7 +61,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -73,7 +73,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -85,7 +85,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -105,7 +105,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`count_for`: typing.Literal['Atom', 'Structure'] = Structure
+`count_for`: `typing.Literal['Atom', 'Structure'] = Structure`
 
 )
 
@@ -120,9 +120,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`batch_structures_list`: typing.Sequence
+`batch_structures_list`: `typing.Sequence`
 
-`strict`: <class 'bool'> = True
+`strict`: `<class 'bool'> = True`
 
 )
 
@@ -143,7 +143,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`force_update`: <class 'bool'> = False
+`force_update`: `<class 'bool'> = False`
 
 )
 
@@ -158,7 +158,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`force_update`: <class 'bool'> = False
+`force_update`: `<class 'bool'> = False`
 
 )
 
@@ -173,7 +173,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`supercell_indices`: <class 'inspect._empty'> = [[ 0.00000000e+00  0.00000000e+00  0.00000000e+00]]
+`supercell_indices`: `<class 'inspect._empty'> = [[ 0.00000000e+00  0.00000000e+00  0.00000000e+00]]`
 
 )
 
@@ -188,11 +188,11 @@ tags: [Preprocessing, load_files]
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`data_slice`: typing.Optional[typing.Tuple[int, int]] = None
+`data_slice`: `typing.Optional[typing.Tuple[int, int]] = None`
 
-`mode`: typing.Literal['w', 'a'] = w
+`mode`: `typing.Literal['w', 'a'] = w`
 
 )
 
@@ -211,9 +211,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`data_slice`: typing.Optional[typing.Tuple[int, int]] = None
+`data_slice`: `typing.Optional[typing.Tuple[int, int]] = None`
 
 )
 
@@ -232,7 +232,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -244,9 +244,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
-`verbose`: <class 'int'> = 0
+`verbose`: `<class 'int'> = 0`
 
 )
 
@@ -258,13 +258,13 @@ tags: [Preprocessing, load_files]
 
 (
 
-`file_list`: typing.Optional[typing.List] = None
+`file_list`: `typing.Optional[typing.List] = None`
 
-`output_coord_type`: <class 'str'> = cartesian
+`output_coord_type`: `<class 'str'> = cartesian`
 
-`n_core`: <class 'int'> = -1
+`n_core`: `<class 'int'> = -1`
 
-`backend`: <class 'inspect._empty'> = loky
+`backend`: `<class 'inspect._empty'> = loky`
 
 )
 
@@ -281,9 +281,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`file_list`: typing.Optional[typing.List] = None
+`file_list`: `typing.Optional[typing.List] = None`
 
-`output_coord_type`: <class 'str'> = cartesian
+`output_coord_type`: `<class 'str'> = cartesian`
 
 )
 
@@ -301,7 +301,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`indices`: typing.List[int]
+`indices`: `typing.List[int]`
 
 )
 
@@ -318,7 +318,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`key`: int | str | slice
+`key`: `int | str | slice`
 
 )
 
@@ -335,7 +335,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`key`: int | str | slice
+`key`: `int | str | slice`
 
 )
 
@@ -352,27 +352,27 @@ tags: [Preprocessing, load_files]
 
 (
 
-`index`: int | str
+`index`: `int | str`
 
-`rev_Sample_ids`: None | str = None
+`rev_Sample_ids`: `None | str = None`
 
-`rev_Cells`: None | numpy.ndarray = None
+`rev_Cells`: `None | numpy.ndarray = None`
 
-`rev_Elements`: typing.Optional[typing.List[str]] = None
+`rev_Elements`: `typing.Optional[typing.List[str]] = None`
 
-`rev_Numbers`: typing.Optional[typing.List[int]] = None
+`rev_Numbers`: `typing.Optional[typing.List[int]] = None`
 
-`rev_Coords_type`: typing.Optional[typing.Literal['C', 'D']] = None
+`rev_Coords_type`: `typing.Optional[typing.Literal['C', 'D']] = None`
 
-`rev_Coords`: None | numpy.ndarray = None
+`rev_Coords`: `None | numpy.ndarray = None`
 
-`rev_Fixed`: None | numpy.ndarray = None
+`rev_Fixed`: `None | numpy.ndarray = None`
 
-`rev_Energies`: None | float = None
+`rev_Energies`: `None | float = None`
 
-`rev_Forces`: None | numpy.ndarray = None
+`rev_Forces`: `None | numpy.ndarray = None`
 
-`rev_Labels`: typing.Any | None = None
+`rev_Labels`: `typing.Any | None = None`
 
 )
 
@@ -397,9 +397,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`mode`: typing.Literal['w', 'a'] = w
+`mode`: `typing.Literal['w', 'a'] = w`
 
 )
 
@@ -420,7 +420,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`element_number_range`: typing.Tuple[float, float]
+`element_number_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -432,7 +432,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`energy_range`: typing.Tuple[float, float]
+`energy_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -444,9 +444,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`prop`: <class 'str'>
+`prop`: `<class 'str'>`
 
-`prop_range`: typing.Tuple[float, float]
+`prop_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -466,7 +466,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`pattern`: <class 'str'>
+`pattern`: `<class 'str'>`
 
 )
 
@@ -485,7 +485,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`val`: typing.Union[typing.Sequence, typing.Dict]
+`val`: `typing.Union[typing.Sequence, typing.Dict]`
 
 )
 
@@ -503,7 +503,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`val`: typing.Union[typing.Sequence[numpy.ndarray], typing.Dict[str, numpy.ndarray]]
+`val`: `typing.Union[typing.Sequence[numpy.ndarray], typing.Dict[str, numpy.ndarray]]`
 
 )
 
@@ -521,7 +521,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`val`: typing.Union[typing.Sequence, typing.Dict, numpy.ndarray]
+`val`: `typing.Union[typing.Sequence, typing.Dict, numpy.ndarray]`
 
 )
 
@@ -539,7 +539,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`number`: int | slice
+`number`: `int | slice`
 
 )
 
@@ -556,7 +556,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`seed`: <class 'int'> = None
+`seed`: `<class 'int'> = None`
 
 )
 
@@ -573,13 +573,13 @@ tags: [Preprocessing, load_files]
 
 (
 
-`labels`: typing.Union[typing.Dict, typing.List, NoneType] = None
+`labels`: `typing.Union[typing.Dict, typing.List, NoneType] = None`
 
-`split_ratio`: <class 'float'> = 0.2
+`split_ratio`: `<class 'float'> = 0.2`
 
-`n_core`: <class 'int'> = 1
+`n_core`: `<class 'int'> = 1`
 
-`verbose`: <class 'int'> = 0
+`verbose`: `<class 'int'> = 0`
 
 )
 
@@ -603,15 +603,15 @@ tags: [Preprocessing, load_files]
 
 (
 
-`output_path`: <class 'str'> = ./
+`output_path`: `<class 'str'> = ./`
 
-`indices`: typing.Union[int, str, typing.List[int], typing.Tuple[int, int], NoneType] = None
+`indices`: `typing.Union[int, str, typing.List[int], typing.Tuple[int, int], NoneType] = None`
 
-`file_format`: typing.Literal['POSCAR', 'cif', 'xyz', 'xyz_forces'] = POSCAR
+`file_format`: `typing.Literal['POSCAR', 'cif', 'xyz', 'xyz_forces'] = POSCAR`
 
-`file_name_list`: typing.Union[str, typing.Sequence[str], NoneType] = None
+`file_name_list`: `typing.Union[str, typing.Sequence[str], NoneType] = None`
 
-`n_core`: <class 'int'> = -1
+`n_core`: `<class 'int'> = -1`
 
 )
 
@@ -636,9 +636,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`verbose`: <class 'int'> = 1
+`verbose`: `<class 'int'> = 1`
 
 )
 
@@ -654,9 +654,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`batch_structures`: <class 'inspect._empty'>
+`batch_structures`: `<class 'inspect._empty'>`
 
-`strict`: <class 'bool'> = True
+`strict`: `<class 'bool'> = True`
 
 )
 
@@ -685,7 +685,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -697,7 +697,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -709,7 +709,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -729,7 +729,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`count_for`: typing.Literal['Atom', 'Structure'] = Structure
+`count_for`: `typing.Literal['Atom', 'Structure'] = Structure`
 
 )
 
@@ -744,9 +744,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`batch_structures_list`: typing.Sequence
+`batch_structures_list`: `typing.Sequence`
 
-`strict`: <class 'bool'> = True
+`strict`: `<class 'bool'> = True`
 
 )
 
@@ -767,7 +767,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`force_update`: <class 'bool'> = False
+`force_update`: `<class 'bool'> = False`
 
 )
 
@@ -782,7 +782,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`force_update`: <class 'bool'> = False
+`force_update`: `<class 'bool'> = False`
 
 )
 
@@ -797,7 +797,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`supercell_indices`: <class 'inspect._empty'> = [[ 0.00000000e+00  0.00000000e+00  0.00000000e+00]]
+`supercell_indices`: `<class 'inspect._empty'> = [[ 0.00000000e+00  0.00000000e+00  0.00000000e+00]]`
 
 )
 
@@ -812,11 +812,11 @@ tags: [Preprocessing, load_files]
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`data_slice`: typing.Optional[typing.Tuple[int, int]] = None
+`data_slice`: `typing.Optional[typing.Tuple[int, int]] = None`
 
-`mode`: typing.Literal['w', 'a'] = w
+`mode`: `typing.Literal['w', 'a'] = w`
 
 )
 
@@ -835,9 +835,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`data_slice`: typing.Optional[typing.Tuple[int, int]] = None
+`data_slice`: `typing.Optional[typing.Tuple[int, int]] = None`
 
 )
 
@@ -856,7 +856,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -868,9 +868,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
-`verbose`: <class 'int'> = 0
+`verbose`: `<class 'int'> = 0`
 
 )
 
@@ -882,11 +882,11 @@ tags: [Preprocessing, load_files]
 
 (
 
-`file_list`: typing.Optional[typing.List[str]] = None
+`file_list`: `typing.Optional[typing.List[str]] = None`
 
-`n_core`: <class 'int'> = -1
+`n_core`: `<class 'int'> = -1`
 
-`backend`: <class 'str'> = loky
+`backend`: `<class 'str'> = loky`
 
 )
 
@@ -904,7 +904,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`indices`: typing.List[int]
+`indices`: `typing.List[int]`
 
 )
 
@@ -921,7 +921,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`key`: int | str | slice
+`key`: `int | str | slice`
 
 )
 
@@ -938,7 +938,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`key`: int | str | slice
+`key`: `int | str | slice`
 
 )
 
@@ -955,27 +955,27 @@ tags: [Preprocessing, load_files]
 
 (
 
-`index`: int | str
+`index`: `int | str`
 
-`rev_Sample_ids`: None | str = None
+`rev_Sample_ids`: `None | str = None`
 
-`rev_Cells`: None | numpy.ndarray = None
+`rev_Cells`: `None | numpy.ndarray = None`
 
-`rev_Elements`: typing.Optional[typing.List[str]] = None
+`rev_Elements`: `typing.Optional[typing.List[str]] = None`
 
-`rev_Numbers`: typing.Optional[typing.List[int]] = None
+`rev_Numbers`: `typing.Optional[typing.List[int]] = None`
 
-`rev_Coords_type`: typing.Optional[typing.Literal['C', 'D']] = None
+`rev_Coords_type`: `typing.Optional[typing.Literal['C', 'D']] = None`
 
-`rev_Coords`: None | numpy.ndarray = None
+`rev_Coords`: `None | numpy.ndarray = None`
 
-`rev_Fixed`: None | numpy.ndarray = None
+`rev_Fixed`: `None | numpy.ndarray = None`
 
-`rev_Energies`: None | float = None
+`rev_Energies`: `None | float = None`
 
-`rev_Forces`: None | numpy.ndarray = None
+`rev_Forces`: `None | numpy.ndarray = None`
 
-`rev_Labels`: typing.Any | None = None
+`rev_Labels`: `typing.Any | None = None`
 
 )
 
@@ -1000,9 +1000,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`mode`: typing.Literal['w', 'a'] = w
+`mode`: `typing.Literal['w', 'a'] = w`
 
 )
 
@@ -1023,7 +1023,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`element_number_range`: typing.Tuple[float, float]
+`element_number_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -1035,7 +1035,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`energy_range`: typing.Tuple[float, float]
+`energy_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -1047,9 +1047,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`prop`: <class 'str'>
+`prop`: `<class 'str'>`
 
-`prop_range`: typing.Tuple[float, float]
+`prop_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -1069,7 +1069,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`pattern`: <class 'str'>
+`pattern`: `<class 'str'>`
 
 )
 
@@ -1088,7 +1088,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`val`: typing.Union[typing.Sequence, typing.Dict]
+`val`: `typing.Union[typing.Sequence, typing.Dict]`
 
 )
 
@@ -1106,7 +1106,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`val`: typing.Union[typing.Sequence[numpy.ndarray], typing.Dict[str, numpy.ndarray]]
+`val`: `typing.Union[typing.Sequence[numpy.ndarray], typing.Dict[str, numpy.ndarray]]`
 
 )
 
@@ -1124,7 +1124,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`val`: typing.Union[typing.Sequence, typing.Dict, numpy.ndarray]
+`val`: `typing.Union[typing.Sequence, typing.Dict, numpy.ndarray]`
 
 )
 
@@ -1142,7 +1142,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`number`: int | slice
+`number`: `int | slice`
 
 )
 
@@ -1159,7 +1159,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`seed`: <class 'int'> = None
+`seed`: `<class 'int'> = None`
 
 )
 
@@ -1176,13 +1176,13 @@ tags: [Preprocessing, load_files]
 
 (
 
-`labels`: typing.Union[typing.Dict, typing.List, NoneType] = None
+`labels`: `typing.Union[typing.Dict, typing.List, NoneType] = None`
 
-`split_ratio`: <class 'float'> = 0.2
+`split_ratio`: `<class 'float'> = 0.2`
 
-`n_core`: <class 'int'> = 1
+`n_core`: `<class 'int'> = 1`
 
-`verbose`: <class 'int'> = 0
+`verbose`: `<class 'int'> = 0`
 
 )
 
@@ -1206,15 +1206,15 @@ tags: [Preprocessing, load_files]
 
 (
 
-`output_path`: <class 'str'> = ./
+`output_path`: `<class 'str'> = ./`
 
-`indices`: typing.Union[int, str, typing.List[int], typing.Tuple[int, int], NoneType] = None
+`indices`: `typing.Union[int, str, typing.List[int], typing.Tuple[int, int], NoneType] = None`
 
-`file_format`: typing.Literal['POSCAR', 'cif', 'xyz', 'xyz_forces'] = POSCAR
+`file_format`: `typing.Literal['POSCAR', 'cif', 'xyz', 'xyz_forces'] = POSCAR`
 
-`file_name_list`: typing.Union[str, typing.Sequence[str], NoneType] = None
+`file_name_list`: `typing.Union[str, typing.Sequence[str], NoneType] = None`
 
-`n_core`: <class 'int'> = -1
+`n_core`: `<class 'int'> = -1`
 
 )
 
@@ -1239,9 +1239,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`verbose`: <class 'int'> = 1
+`verbose`: `<class 'int'> = 1`
 
 )
 
@@ -1253,9 +1253,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`batch_structures`: <class 'inspect._empty'>
+`batch_structures`: `<class 'inspect._empty'>`
 
-`strict`: <class 'bool'> = True
+`strict`: `<class 'bool'> = True`
 
 )
 
@@ -1284,7 +1284,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -1296,7 +1296,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -1308,7 +1308,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -1328,7 +1328,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`count_for`: typing.Literal['Atom', 'Structure'] = Structure
+`count_for`: `typing.Literal['Atom', 'Structure'] = Structure`
 
 )
 
@@ -1343,9 +1343,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`batch_structures_list`: typing.Sequence
+`batch_structures_list`: `typing.Sequence`
 
-`strict`: <class 'bool'> = True
+`strict`: `<class 'bool'> = True`
 
 )
 
@@ -1366,7 +1366,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`force_update`: <class 'bool'> = False
+`force_update`: `<class 'bool'> = False`
 
 )
 
@@ -1381,7 +1381,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`force_update`: <class 'bool'> = False
+`force_update`: `<class 'bool'> = False`
 
 )
 
@@ -1396,7 +1396,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`supercell_indices`: <class 'inspect._empty'> = [[ 0.00000000e+00  0.00000000e+00  0.00000000e+00]]
+`supercell_indices`: `<class 'inspect._empty'> = [[ 0.00000000e+00  0.00000000e+00  0.00000000e+00]]`
 
 )
 
@@ -1411,11 +1411,11 @@ tags: [Preprocessing, load_files]
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`data_slice`: typing.Optional[typing.Tuple[int, int]] = None
+`data_slice`: `typing.Optional[typing.Tuple[int, int]] = None`
 
-`mode`: typing.Literal['w', 'a'] = w
+`mode`: `typing.Literal['w', 'a'] = w`
 
 )
 
@@ -1434,9 +1434,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`data_slice`: typing.Optional[typing.Tuple[int, int]] = None
+`data_slice`: `typing.Optional[typing.Tuple[int, int]] = None`
 
 )
 
@@ -1455,7 +1455,7 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -1467,9 +1467,9 @@ tags: [Preprocessing, load_files]
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
-`verbose`: <class 'int'> = 0
+`verbose`: `<class 'int'> = 0`
 
 )
 
@@ -1481,11 +1481,11 @@ tags: [Preprocessing, load_files]
 
 (
 
-`file_list`: <class 'inspect._empty'> = None
+`file_list`: `<class 'inspect._empty'> = None`
 
-`n_core`: <class 'int'> = -1
+`n_core`: `<class 'int'> = -1`
 
-`backend`: typing.Union[typing.Literal['loky', 'threading', 'multiprocessing'], str] = loky
+`backend`: `typing.Union[typing.Literal['loky', 'threading', 'multiprocessing'], str] = loky`
 
 )
 
@@ -1495,7 +1495,7 @@ None
 
 (
 
-`indices`: typing.List[int]
+`indices`: `typing.List[int]`
 
 )
 
@@ -1512,7 +1512,7 @@ None
 
 (
 
-`key`: int | str | slice
+`key`: `int | str | slice`
 
 )
 
@@ -1529,7 +1529,7 @@ None
 
 (
 
-`key`: int | str | slice
+`key`: `int | str | slice`
 
 )
 
@@ -1546,27 +1546,27 @@ None
 
 (
 
-`index`: int | str
+`index`: `int | str`
 
-`rev_Sample_ids`: None | str = None
+`rev_Sample_ids`: `None | str = None`
 
-`rev_Cells`: None | numpy.ndarray = None
+`rev_Cells`: `None | numpy.ndarray = None`
 
-`rev_Elements`: typing.Optional[typing.List[str]] = None
+`rev_Elements`: `typing.Optional[typing.List[str]] = None`
 
-`rev_Numbers`: typing.Optional[typing.List[int]] = None
+`rev_Numbers`: `typing.Optional[typing.List[int]] = None`
 
-`rev_Coords_type`: typing.Optional[typing.Literal['C', 'D']] = None
+`rev_Coords_type`: `typing.Optional[typing.Literal['C', 'D']] = None`
 
-`rev_Coords`: None | numpy.ndarray = None
+`rev_Coords`: `None | numpy.ndarray = None`
 
-`rev_Fixed`: None | numpy.ndarray = None
+`rev_Fixed`: `None | numpy.ndarray = None`
 
-`rev_Energies`: None | float = None
+`rev_Energies`: `None | float = None`
 
-`rev_Forces`: None | numpy.ndarray = None
+`rev_Forces`: `None | numpy.ndarray = None`
 
-`rev_Labels`: typing.Any | None = None
+`rev_Labels`: `typing.Any | None = None`
 
 )
 
@@ -1591,9 +1591,9 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`mode`: typing.Literal['w', 'a'] = w
+`mode`: `typing.Literal['w', 'a'] = w`
 
 )
 
@@ -1614,7 +1614,7 @@ None
 
 (
 
-`element_number_range`: typing.Tuple[float, float]
+`element_number_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -1626,7 +1626,7 @@ None
 
 (
 
-`energy_range`: typing.Tuple[float, float]
+`energy_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -1638,9 +1638,9 @@ None
 
 (
 
-`prop`: <class 'str'>
+`prop`: `<class 'str'>`
 
-`prop_range`: typing.Tuple[float, float]
+`prop_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -1660,7 +1660,7 @@ None
 
 (
 
-`pattern`: <class 'str'>
+`pattern`: `<class 'str'>`
 
 )
 
@@ -1679,7 +1679,7 @@ None
 
 (
 
-`val`: typing.Union[typing.Sequence, typing.Dict]
+`val`: `typing.Union[typing.Sequence, typing.Dict]`
 
 )
 
@@ -1697,7 +1697,7 @@ None
 
 (
 
-`val`: typing.Union[typing.Sequence[numpy.ndarray], typing.Dict[str, numpy.ndarray]]
+`val`: `typing.Union[typing.Sequence[numpy.ndarray], typing.Dict[str, numpy.ndarray]]`
 
 )
 
@@ -1715,7 +1715,7 @@ None
 
 (
 
-`val`: typing.Union[typing.Sequence, typing.Dict, numpy.ndarray]
+`val`: `typing.Union[typing.Sequence, typing.Dict, numpy.ndarray]`
 
 )
 
@@ -1733,7 +1733,7 @@ None
 
 (
 
-`number`: int | slice
+`number`: `int | slice`
 
 )
 
@@ -1750,7 +1750,7 @@ None
 
 (
 
-`seed`: <class 'int'> = None
+`seed`: `<class 'int'> = None`
 
 )
 
@@ -1767,13 +1767,13 @@ None
 
 (
 
-`labels`: typing.Union[typing.Dict, typing.List, NoneType] = None
+`labels`: `typing.Union[typing.Dict, typing.List, NoneType] = None`
 
-`split_ratio`: <class 'float'> = 0.2
+`split_ratio`: `<class 'float'> = 0.2`
 
-`n_core`: <class 'int'> = 1
+`n_core`: `<class 'int'> = 1`
 
-`verbose`: <class 'int'> = 0
+`verbose`: `<class 'int'> = 0`
 
 )
 
@@ -1797,15 +1797,15 @@ None
 
 (
 
-`output_path`: <class 'str'> = ./
+`output_path`: `<class 'str'> = ./`
 
-`indices`: typing.Union[int, str, typing.List[int], typing.Tuple[int, int], NoneType] = None
+`indices`: `typing.Union[int, str, typing.List[int], typing.Tuple[int, int], NoneType] = None`
 
-`file_format`: typing.Literal['POSCAR', 'cif', 'xyz', 'xyz_forces'] = POSCAR
+`file_format`: `typing.Literal['POSCAR', 'cif', 'xyz', 'xyz_forces'] = POSCAR`
 
-`file_name_list`: typing.Union[str, typing.Sequence[str], NoneType] = None
+`file_name_list`: `typing.Union[str, typing.Sequence[str], NoneType] = None`
 
-`n_core`: <class 'int'> = -1
+`n_core`: `<class 'int'> = -1`
 
 )
 
@@ -1830,9 +1830,9 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`verbose`: <class 'int'> = 1
+`verbose`: `<class 'int'> = 1`
 
 )
 
@@ -1844,9 +1844,9 @@ None
 
 (
 
-`batch_structures`: <class 'inspect._empty'>
+`batch_structures`: `<class 'inspect._empty'>`
 
-`strict`: <class 'bool'> = True
+`strict`: `<class 'bool'> = True`
 
 )
 
@@ -1875,7 +1875,7 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -1887,7 +1887,7 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -1899,7 +1899,7 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -1919,7 +1919,7 @@ None
 
 (
 
-`count_for`: typing.Literal['Atom', 'Structure'] = Structure
+`count_for`: `typing.Literal['Atom', 'Structure'] = Structure`
 
 )
 
@@ -1934,9 +1934,9 @@ None
 
 (
 
-`batch_structures_list`: typing.Sequence
+`batch_structures_list`: `typing.Sequence`
 
-`strict`: <class 'bool'> = True
+`strict`: `<class 'bool'> = True`
 
 )
 
@@ -1957,7 +1957,7 @@ None
 
 (
 
-`force_update`: <class 'bool'> = False
+`force_update`: `<class 'bool'> = False`
 
 )
 
@@ -1972,7 +1972,7 @@ None
 
 (
 
-`force_update`: <class 'bool'> = False
+`force_update`: `<class 'bool'> = False`
 
 )
 
@@ -1987,7 +1987,7 @@ None
 
 (
 
-`supercell_indices`: <class 'inspect._empty'> = [[ 0.00000000e+00  0.00000000e+00  0.00000000e+00]]
+`supercell_indices`: `<class 'inspect._empty'> = [[ 0.00000000e+00  0.00000000e+00  0.00000000e+00]]`
 
 )
 
@@ -2002,11 +2002,11 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`data_slice`: typing.Optional[typing.Tuple[int, int]] = None
+`data_slice`: `typing.Optional[typing.Tuple[int, int]] = None`
 
-`mode`: typing.Literal['w', 'a'] = w
+`mode`: `typing.Literal['w', 'a'] = w`
 
 )
 
@@ -2025,9 +2025,9 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`data_slice`: typing.Optional[typing.Tuple[int, int]] = None
+`data_slice`: `typing.Optional[typing.Tuple[int, int]] = None`
 
 )
 
@@ -2046,7 +2046,7 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -2058,9 +2058,9 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
-`verbose`: <class 'int'> = 0
+`verbose`: `<class 'int'> = 0`
 
 )
 
@@ -2072,25 +2072,25 @@ None
 
 (
 
-`file_list`: <class 'inspect._empty'> = None
+`file_list`: `<class 'inspect._empty'> = None`
 
-`n_core`: <class 'int'> = -1
+`n_core`: `<class 'int'> = -1`
 
-`backend`: typing.Union[typing.Literal['loky', 'threading', 'multiprocessing'], str] = loky
+`backend`: `typing.Union[typing.Literal['loky', 'threading', 'multiprocessing'], str] = loky`
 
-`lattice_tag`: <class 'str'> = lattice
+`lattice_tag`: `<class 'str'> = lattice`
 
-`energy_tag`: <class 'str'> = energy
+`energy_tag`: `<class 'str'> = energy`
 
-`column_info_tag`: <class 'str'> = properties
+`column_info_tag`: `<class 'str'> = properties`
 
-`element_tag`: <class 'str'> = species
+`element_tag`: `<class 'str'> = species`
 
-`coordinates_tag`: <class 'str'> = pos
+`coordinates_tag`: `<class 'str'> = pos`
 
-`forces_tag`: str | None = forces
+`forces_tag`: `str | None = forces`
 
-`fixed_atom_tag`: str | None = move_mask
+`fixed_atom_tag`: `str | None = move_mask`
 
 )
 
@@ -2118,7 +2118,7 @@ None
 
 (
 
-`indices`: typing.List[int]
+`indices`: `typing.List[int]`
 
 )
 
@@ -2135,7 +2135,7 @@ None
 
 (
 
-`key`: int | str | slice
+`key`: `int | str | slice`
 
 )
 
@@ -2152,7 +2152,7 @@ None
 
 (
 
-`key`: int | str | slice
+`key`: `int | str | slice`
 
 )
 
@@ -2169,27 +2169,27 @@ None
 
 (
 
-`index`: int | str
+`index`: `int | str`
 
-`rev_Sample_ids`: None | str = None
+`rev_Sample_ids`: `None | str = None`
 
-`rev_Cells`: None | numpy.ndarray = None
+`rev_Cells`: `None | numpy.ndarray = None`
 
-`rev_Elements`: typing.Optional[typing.List[str]] = None
+`rev_Elements`: `typing.Optional[typing.List[str]] = None`
 
-`rev_Numbers`: typing.Optional[typing.List[int]] = None
+`rev_Numbers`: `typing.Optional[typing.List[int]] = None`
 
-`rev_Coords_type`: typing.Optional[typing.Literal['C', 'D']] = None
+`rev_Coords_type`: `typing.Optional[typing.Literal['C', 'D']] = None`
 
-`rev_Coords`: None | numpy.ndarray = None
+`rev_Coords`: `None | numpy.ndarray = None`
 
-`rev_Fixed`: None | numpy.ndarray = None
+`rev_Fixed`: `None | numpy.ndarray = None`
 
-`rev_Energies`: None | float = None
+`rev_Energies`: `None | float = None`
 
-`rev_Forces`: None | numpy.ndarray = None
+`rev_Forces`: `None | numpy.ndarray = None`
 
-`rev_Labels`: typing.Any | None = None
+`rev_Labels`: `typing.Any | None = None`
 
 )
 
@@ -2214,9 +2214,9 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`mode`: typing.Literal['w', 'a'] = w
+`mode`: `typing.Literal['w', 'a'] = w`
 
 )
 
@@ -2237,7 +2237,7 @@ None
 
 (
 
-`element_number_range`: typing.Tuple[float, float]
+`element_number_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -2249,7 +2249,7 @@ None
 
 (
 
-`energy_range`: typing.Tuple[float, float]
+`energy_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -2261,9 +2261,9 @@ None
 
 (
 
-`prop`: <class 'str'>
+`prop`: `<class 'str'>`
 
-`prop_range`: typing.Tuple[float, float]
+`prop_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -2283,7 +2283,7 @@ None
 
 (
 
-`pattern`: <class 'str'>
+`pattern`: `<class 'str'>`
 
 )
 
@@ -2302,7 +2302,7 @@ None
 
 (
 
-`val`: typing.Union[typing.Sequence, typing.Dict]
+`val`: `typing.Union[typing.Sequence, typing.Dict]`
 
 )
 
@@ -2320,7 +2320,7 @@ None
 
 (
 
-`val`: typing.Union[typing.Sequence[numpy.ndarray], typing.Dict[str, numpy.ndarray]]
+`val`: `typing.Union[typing.Sequence[numpy.ndarray], typing.Dict[str, numpy.ndarray]]`
 
 )
 
@@ -2338,7 +2338,7 @@ None
 
 (
 
-`val`: typing.Union[typing.Sequence, typing.Dict, numpy.ndarray]
+`val`: `typing.Union[typing.Sequence, typing.Dict, numpy.ndarray]`
 
 )
 
@@ -2356,7 +2356,7 @@ None
 
 (
 
-`number`: int | slice
+`number`: `int | slice`
 
 )
 
@@ -2373,7 +2373,7 @@ None
 
 (
 
-`seed`: <class 'int'> = None
+`seed`: `<class 'int'> = None`
 
 )
 
@@ -2390,13 +2390,13 @@ None
 
 (
 
-`labels`: typing.Union[typing.Dict, typing.List, NoneType] = None
+`labels`: `typing.Union[typing.Dict, typing.List, NoneType] = None`
 
-`split_ratio`: <class 'float'> = 0.2
+`split_ratio`: `<class 'float'> = 0.2`
 
-`n_core`: <class 'int'> = 1
+`n_core`: `<class 'int'> = 1`
 
-`verbose`: <class 'int'> = 0
+`verbose`: `<class 'int'> = 0`
 
 )
 
@@ -2420,15 +2420,15 @@ None
 
 (
 
-`output_path`: <class 'str'> = ./
+`output_path`: `<class 'str'> = ./`
 
-`indices`: typing.Union[int, str, typing.List[int], typing.Tuple[int, int], NoneType] = None
+`indices`: `typing.Union[int, str, typing.List[int], typing.Tuple[int, int], NoneType] = None`
 
-`file_format`: typing.Literal['POSCAR', 'cif', 'xyz', 'xyz_forces'] = POSCAR
+`file_format`: `typing.Literal['POSCAR', 'cif', 'xyz', 'xyz_forces'] = POSCAR`
 
-`file_name_list`: typing.Union[str, typing.Sequence[str], NoneType] = None
+`file_name_list`: `typing.Union[str, typing.Sequence[str], NoneType] = None`
 
-`n_core`: <class 'int'> = -1
+`n_core`: `<class 'int'> = -1`
 
 )
 
@@ -2453,15 +2453,15 @@ None
 
 (
 
-`file_name`: <class 'str'>
+`file_name`: `<class 'str'>`
 
-`label_type`: <class 'type'> = <class 'float'>
+`label_type`: `<class 'type'> = <class 'float'>`
 
-`ignore_None_label_samp`: <class 'bool'> = True
+`ignore_None_label_samp`: `<class 'bool'> = True`
 
-`read_column`: typing.Tuple[int, int] = (0, 1)
+`read_column`: `typing.Tuple[int, int] = (0, 1)`
 
-`has_title_line`: <class 'bool'> = False
+`has_title_line`: `<class 'bool'> = False`
 
 )
 
@@ -2483,9 +2483,9 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`verbose`: <class 'int'> = 1
+`verbose`: `<class 'int'> = 1`
 
 )
 
@@ -2499,9 +2499,9 @@ None
 
 (
 
-`batch_structures`: <class 'inspect._empty'>
+`batch_structures`: `<class 'inspect._empty'>`
 
-`strict`: <class 'bool'> = True
+`strict`: `<class 'bool'> = True`
 
 )
 
@@ -2530,7 +2530,7 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -2542,7 +2542,7 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -2554,7 +2554,7 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -2574,7 +2574,7 @@ None
 
 (
 
-`count_for`: typing.Literal['Atom', 'Structure'] = Structure
+`count_for`: `typing.Literal['Atom', 'Structure'] = Structure`
 
 )
 
@@ -2589,9 +2589,9 @@ None
 
 (
 
-`batch_structures_list`: typing.Sequence
+`batch_structures_list`: `typing.Sequence`
 
-`strict`: <class 'bool'> = True
+`strict`: `<class 'bool'> = True`
 
 )
 
@@ -2612,7 +2612,7 @@ None
 
 (
 
-`force_update`: <class 'bool'> = False
+`force_update`: `<class 'bool'> = False`
 
 )
 
@@ -2627,7 +2627,7 @@ None
 
 (
 
-`force_update`: <class 'bool'> = False
+`force_update`: `<class 'bool'> = False`
 
 )
 
@@ -2642,7 +2642,7 @@ None
 
 (
 
-`supercell_indices`: <class 'inspect._empty'> = [[ 0.00000000e+00  0.00000000e+00  0.00000000e+00]]
+`supercell_indices`: `<class 'inspect._empty'> = [[ 0.00000000e+00  0.00000000e+00  0.00000000e+00]]`
 
 )
 
@@ -2657,11 +2657,11 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`data_slice`: typing.Optional[typing.Tuple[int, int]] = None
+`data_slice`: `typing.Optional[typing.Tuple[int, int]] = None`
 
-`mode`: typing.Literal['w', 'a'] = w
+`mode`: `typing.Literal['w', 'a'] = w`
 
 )
 
@@ -2680,9 +2680,9 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`data_slice`: typing.Optional[typing.Tuple[int, int]] = None
+`data_slice`: `typing.Optional[typing.Tuple[int, int]] = None`
 
 )
 
@@ -2701,7 +2701,7 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -2713,9 +2713,9 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
-`verbose`: <class 'int'> = 0
+`verbose`: `<class 'int'> = 0`
 
 )
 
@@ -2727,11 +2727,11 @@ None
 
 (
 
-`file_list`: <class 'inspect._empty'> = None
+`file_list`: `<class 'inspect._empty'> = None`
 
-`n_core`: <class 'int'> = -1
+`n_core`: `<class 'int'> = -1`
 
-`backend`: typing.Union[typing.Literal['loky', 'threading', 'multiprocessing'], str] = loky
+`backend`: `typing.Union[typing.Literal['loky', 'threading', 'multiprocessing'], str] = loky`
 
 )
 
@@ -2741,7 +2741,7 @@ None
 
 (
 
-`indices`: typing.List[int]
+`indices`: `typing.List[int]`
 
 )
 
@@ -2758,7 +2758,7 @@ None
 
 (
 
-`key`: int | str | slice
+`key`: `int | str | slice`
 
 )
 
@@ -2775,7 +2775,7 @@ None
 
 (
 
-`key`: int | str | slice
+`key`: `int | str | slice`
 
 )
 
@@ -2792,27 +2792,27 @@ None
 
 (
 
-`index`: int | str
+`index`: `int | str`
 
-`rev_Sample_ids`: None | str = None
+`rev_Sample_ids`: `None | str = None`
 
-`rev_Cells`: None | numpy.ndarray = None
+`rev_Cells`: `None | numpy.ndarray = None`
 
-`rev_Elements`: typing.Optional[typing.List[str]] = None
+`rev_Elements`: `typing.Optional[typing.List[str]] = None`
 
-`rev_Numbers`: typing.Optional[typing.List[int]] = None
+`rev_Numbers`: `typing.Optional[typing.List[int]] = None`
 
-`rev_Coords_type`: typing.Optional[typing.Literal['C', 'D']] = None
+`rev_Coords_type`: `typing.Optional[typing.Literal['C', 'D']] = None`
 
-`rev_Coords`: None | numpy.ndarray = None
+`rev_Coords`: `None | numpy.ndarray = None`
 
-`rev_Fixed`: None | numpy.ndarray = None
+`rev_Fixed`: `None | numpy.ndarray = None`
 
-`rev_Energies`: None | float = None
+`rev_Energies`: `None | float = None`
 
-`rev_Forces`: None | numpy.ndarray = None
+`rev_Forces`: `None | numpy.ndarray = None`
 
-`rev_Labels`: typing.Any | None = None
+`rev_Labels`: `typing.Any | None = None`
 
 )
 
@@ -2837,9 +2837,9 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`mode`: typing.Literal['w', 'a'] = w
+`mode`: `typing.Literal['w', 'a'] = w`
 
 )
 
@@ -2860,7 +2860,7 @@ None
 
 (
 
-`element_number_range`: typing.Tuple[float, float]
+`element_number_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -2872,7 +2872,7 @@ None
 
 (
 
-`energy_range`: typing.Tuple[float, float]
+`energy_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -2884,9 +2884,9 @@ None
 
 (
 
-`prop`: <class 'str'>
+`prop`: `<class 'str'>`
 
-`prop_range`: typing.Tuple[float, float]
+`prop_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -2906,7 +2906,7 @@ None
 
 (
 
-`pattern`: <class 'str'>
+`pattern`: `<class 'str'>`
 
 )
 
@@ -2925,7 +2925,7 @@ None
 
 (
 
-`val`: typing.Union[typing.Sequence, typing.Dict]
+`val`: `typing.Union[typing.Sequence, typing.Dict]`
 
 )
 
@@ -2943,7 +2943,7 @@ None
 
 (
 
-`val`: typing.Union[typing.Sequence[numpy.ndarray], typing.Dict[str, numpy.ndarray]]
+`val`: `typing.Union[typing.Sequence[numpy.ndarray], typing.Dict[str, numpy.ndarray]]`
 
 )
 
@@ -2961,7 +2961,7 @@ None
 
 (
 
-`val`: typing.Union[typing.Sequence, typing.Dict, numpy.ndarray]
+`val`: `typing.Union[typing.Sequence, typing.Dict, numpy.ndarray]`
 
 )
 
@@ -2979,7 +2979,7 @@ None
 
 (
 
-`number`: int | slice
+`number`: `int | slice`
 
 )
 
@@ -2996,7 +2996,7 @@ None
 
 (
 
-`seed`: <class 'int'> = None
+`seed`: `<class 'int'> = None`
 
 )
 
@@ -3013,13 +3013,13 @@ None
 
 (
 
-`labels`: typing.Union[typing.Dict, typing.List, NoneType] = None
+`labels`: `typing.Union[typing.Dict, typing.List, NoneType] = None`
 
-`split_ratio`: <class 'float'> = 0.2
+`split_ratio`: `<class 'float'> = 0.2`
 
-`n_core`: <class 'int'> = 1
+`n_core`: `<class 'int'> = 1`
 
-`verbose`: <class 'int'> = 0
+`verbose`: `<class 'int'> = 0`
 
 )
 
@@ -3043,15 +3043,15 @@ None
 
 (
 
-`output_path`: <class 'str'> = ./
+`output_path`: `<class 'str'> = ./`
 
-`indices`: typing.Union[int, str, typing.List[int], typing.Tuple[int, int], NoneType] = None
+`indices`: `typing.Union[int, str, typing.List[int], typing.Tuple[int, int], NoneType] = None`
 
-`file_format`: typing.Literal['POSCAR', 'cif', 'xyz', 'xyz_forces'] = POSCAR
+`file_format`: `typing.Literal['POSCAR', 'cif', 'xyz', 'xyz_forces'] = POSCAR`
 
-`file_name_list`: typing.Union[str, typing.Sequence[str], NoneType] = None
+`file_name_list`: `typing.Union[str, typing.Sequence[str], NoneType] = None`
 
-`n_core`: <class 'int'> = -1
+`n_core`: `<class 'int'> = -1`
 
 )
 
@@ -3076,7 +3076,7 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
 )
 
@@ -3093,9 +3093,9 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`verbose`: <class 'int'> = 1
+`verbose`: `<class 'int'> = 1`
 
 )
 
@@ -3107,9 +3107,9 @@ None
 
 (
 
-`batch_structures`: <class 'inspect._empty'>
+`batch_structures`: `<class 'inspect._empty'>`
 
-`strict`: <class 'bool'> = True
+`strict`: `<class 'bool'> = True`
 
 )
 
@@ -3138,7 +3138,7 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -3150,7 +3150,7 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -3162,7 +3162,7 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -3182,7 +3182,7 @@ None
 
 (
 
-`count_for`: typing.Literal['Atom', 'Structure'] = Structure
+`count_for`: `typing.Literal['Atom', 'Structure'] = Structure`
 
 )
 
@@ -3197,9 +3197,9 @@ None
 
 (
 
-`batch_structures_list`: typing.Sequence
+`batch_structures_list`: `typing.Sequence`
 
-`strict`: <class 'bool'> = True
+`strict`: `<class 'bool'> = True`
 
 )
 
@@ -3220,7 +3220,7 @@ None
 
 (
 
-`force_update`: <class 'bool'> = False
+`force_update`: `<class 'bool'> = False`
 
 )
 
@@ -3235,7 +3235,7 @@ None
 
 (
 
-`force_update`: <class 'bool'> = False
+`force_update`: `<class 'bool'> = False`
 
 )
 
@@ -3250,7 +3250,7 @@ None
 
 (
 
-`supercell_indices`: <class 'inspect._empty'> = [[ 0.00000000e+00  0.00000000e+00  0.00000000e+00]]
+`supercell_indices`: `<class 'inspect._empty'> = [[ 0.00000000e+00  0.00000000e+00  0.00000000e+00]]`
 
 )
 
@@ -3265,11 +3265,11 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`data_slice`: typing.Optional[typing.Tuple[int, int]] = None
+`data_slice`: `typing.Optional[typing.Tuple[int, int]] = None`
 
-`mode`: typing.Literal['w', 'a'] = w
+`mode`: `typing.Literal['w', 'a'] = w`
 
 )
 
@@ -3288,9 +3288,9 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`data_slice`: typing.Optional[typing.Tuple[int, int]] = None
+`data_slice`: `typing.Optional[typing.Tuple[int, int]] = None`
 
 )
 
@@ -3309,7 +3309,7 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
 )
 
@@ -3321,9 +3321,9 @@ None
 
 (
 
-`elements`: typing.Union[typing.List[str], typing.Set[str]]
+`elements`: `typing.Union[typing.List[str], typing.Set[str]]`
 
-`verbose`: <class 'int'> = 0
+`verbose`: `<class 'int'> = 0`
 
 )
 
@@ -3335,11 +3335,11 @@ None
 
 (
 
-`file_list`: typing.List[str]
+`file_list`: `typing.List[str]`
 
-`n_core`: <class 'int'> = -1
+`n_core`: `<class 'int'> = -1`
 
-`backend`: <class 'inspect._empty'> = loky
+`backend`: `<class 'inspect._empty'> = loky`
 
 )
 
@@ -3349,7 +3349,7 @@ None
 
 (
 
-`indices`: typing.List[int]
+`indices`: `typing.List[int]`
 
 )
 
@@ -3366,7 +3366,7 @@ None
 
 (
 
-`key`: int | str | slice
+`key`: `int | str | slice`
 
 )
 
@@ -3383,7 +3383,7 @@ None
 
 (
 
-`key`: int | str | slice
+`key`: `int | str | slice`
 
 )
 
@@ -3400,27 +3400,27 @@ None
 
 (
 
-`index`: int | str
+`index`: `int | str`
 
-`rev_Sample_ids`: None | str = None
+`rev_Sample_ids`: `None | str = None`
 
-`rev_Cells`: None | numpy.ndarray = None
+`rev_Cells`: `None | numpy.ndarray = None`
 
-`rev_Elements`: typing.Optional[typing.List[str]] = None
+`rev_Elements`: `typing.Optional[typing.List[str]] = None`
 
-`rev_Numbers`: typing.Optional[typing.List[int]] = None
+`rev_Numbers`: `typing.Optional[typing.List[int]] = None`
 
-`rev_Coords_type`: typing.Optional[typing.Literal['C', 'D']] = None
+`rev_Coords_type`: `typing.Optional[typing.Literal['C', 'D']] = None`
 
-`rev_Coords`: None | numpy.ndarray = None
+`rev_Coords`: `None | numpy.ndarray = None`
 
-`rev_Fixed`: None | numpy.ndarray = None
+`rev_Fixed`: `None | numpy.ndarray = None`
 
-`rev_Energies`: None | float = None
+`rev_Energies`: `None | float = None`
 
-`rev_Forces`: None | numpy.ndarray = None
+`rev_Forces`: `None | numpy.ndarray = None`
 
-`rev_Labels`: typing.Any | None = None
+`rev_Labels`: `typing.Any | None = None`
 
 )
 
@@ -3445,9 +3445,9 @@ None
 
 (
 
-`path`: <class 'str'>
+`path`: `<class 'str'>`
 
-`mode`: typing.Literal['w', 'a'] = w
+`mode`: `typing.Literal['w', 'a'] = w`
 
 )
 
@@ -3468,7 +3468,7 @@ None
 
 (
 
-`element_number_range`: typing.Tuple[float, float]
+`element_number_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -3480,7 +3480,7 @@ None
 
 (
 
-`energy_range`: typing.Tuple[float, float]
+`energy_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -3492,9 +3492,9 @@ None
 
 (
 
-`prop`: <class 'str'>
+`prop`: `<class 'str'>`
 
-`prop_range`: typing.Tuple[float, float]
+`prop_range`: `typing.Tuple[float, float]`
 
 )
 
@@ -3514,7 +3514,7 @@ None
 
 (
 
-`pattern`: <class 'str'>
+`pattern`: `<class 'str'>`
 
 )
 
@@ -3533,7 +3533,7 @@ None
 
 (
 
-`val`: typing.Union[typing.Sequence, typing.Dict]
+`val`: `typing.Union[typing.Sequence, typing.Dict]`
 
 )
 
@@ -3551,7 +3551,7 @@ None
 
 (
 
-`val`: typing.Union[typing.Sequence[numpy.ndarray], typing.Dict[str, numpy.ndarray]]
+`val`: `typing.Union[typing.Sequence[numpy.ndarray], typing.Dict[str, numpy.ndarray]]`
 
 )
 
@@ -3569,7 +3569,7 @@ None
 
 (
 
-`val`: typing.Union[typing.Sequence, typing.Dict, numpy.ndarray]
+`val`: `typing.Union[typing.Sequence, typing.Dict, numpy.ndarray]`
 
 )
 
@@ -3587,7 +3587,7 @@ None
 
 (
 
-`number`: int | slice
+`number`: `int | slice`
 
 )
 
@@ -3604,7 +3604,7 @@ None
 
 (
 
-`seed`: <class 'int'> = None
+`seed`: `<class 'int'> = None`
 
 )
 
@@ -3621,13 +3621,13 @@ None
 
 (
 
-`labels`: typing.Union[typing.Dict, typing.List, NoneType] = None
+`labels`: `typing.Union[typing.Dict, typing.List, NoneType] = None`
 
-`split_ratio`: <class 'float'> = 0.2
+`split_ratio`: `<class 'float'> = 0.2`
 
-`n_core`: <class 'int'> = 1
+`n_core`: `<class 'int'> = 1`
 
-`verbose`: <class 'int'> = 0
+`verbose`: `<class 'int'> = 0`
 
 )
 
@@ -3651,15 +3651,15 @@ None
 
 (
 
-`output_path`: <class 'str'> = ./
+`output_path`: `<class 'str'> = ./`
 
-`indices`: typing.Union[int, str, typing.List[int], typing.Tuple[int, int], NoneType] = None
+`indices`: `typing.Union[int, str, typing.List[int], typing.Tuple[int, int], NoneType] = None`
 
-`file_format`: typing.Literal['POSCAR', 'cif', 'xyz', 'xyz_forces'] = POSCAR
+`file_format`: `typing.Literal['POSCAR', 'cif', 'xyz', 'xyz_forces'] = POSCAR`
 
-`file_name_list`: typing.Union[str, typing.Sequence[str], NoneType] = None
+`file_name_list`: `typing.Union[str, typing.Sequence[str], NoneType] = None`
 
-`n_core`: <class 'int'> = -1
+`n_core`: `<class 'int'> = -1`
 
 )
 
@@ -3677,3 +3677,4 @@ None
             n_core: number of CPU cores to write in parallel. `-1` for all available CPU cores.
 
         Returns: None
+  
