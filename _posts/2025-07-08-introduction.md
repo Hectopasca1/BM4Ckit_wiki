@@ -13,20 +13,25 @@ pin: true
 
 # [BM4Ckit](https://github.com/TrinitroCat/BM4Ckit)
 ## Batched Machine-learning for Catalysts kit
-A Python-based package containing various tools for machine learning applied in catalytic chemistry, including reading, writing, filtering, modifying and converting batched structure files, training ML models, model predictions, ML-potential-based batched structure optimisation as well as molecular dynamics, etc. <br>
+A Python-based package containing various tools for machine learning applied in catalytic chemistry, including reading, writing, filtering, modifying and converting batched structure files, training ML models, model predictions, ML-potential-based batched structure optimisation as well as molecular dynamics, etc.
 
 **Manual webpages(*[Tutorials](https://hectopasca1.github.io/BM4Ckit_wiki/categories/tutorials/)*) are now under construction. Current manuals can be found in *[Manual](https://github.com/TrinitroCat/BM4Ckit/tree/main/Manual "Examples and templates")*.**
 
-**Please note that the project is still in its early version and may change significantly in the future.** <br>
+**Please note that the project is still in its early version and may change significantly in the future.**
 
-These following third-party libraries are used:
+## Third-party Libraries
+### Used:
 - **PyTorch** (BSD-3-Clause License), Copyright © 2016-present Facebook Inc.  
 - **NumPy** (BSD-3-Clause License), Copyright © 2005-2025 NumPy Developers.
 - **Joblib** (BSD-3-Clause License), Copyright © 2008-2021, The joblib developers.
 
-These following third-party libraries are optional:
+### Optional:
 - **DGL** (Apache-2.3 License)
 - **torch-geometric** (MIT License)
-- **ASE** (LGPL-v2.1 License) [ASE](https://gitlab.com/ase/ase/-/tree/master?ref_type=heads) <br>
+- **ASE** (LGPL-v2.1 License) [ASE](https://gitlab.com/ase/ase/-/tree/master?ref_type=heads)
 
+## Latest Version
+**0.9a**
+
+## Licenses
 See [LICENSES](https://github.com/TrinitroCat/BM4Ckit/tree/main/LICENSES) for full license texts.
