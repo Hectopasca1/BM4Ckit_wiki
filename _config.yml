@@ -227,3 +227,10 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# Taxonomy settings
+taxonomies:
+  category: true
+
+# sorting
+category_sort: true
