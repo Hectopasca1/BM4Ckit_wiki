@@ -36,18 +36,23 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Pengxin Pu & Xin Song
+https://github.com/S-Xin1024
+  github:
+    - type: github
+      url: https://github.com/TrinitroCat
+      icon: fab fa-github
 
-  github:
-    username: TrinitroCat
-  github:
-    username: S-Xin1024 
+    - type: github
+      url: https://github.com/S-Xin1024
+      icon: fab fa-github
+    
   email: 2023200999@buct.edu.cn
   email: 2024430081@buct.edu.cn
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/TrinitroCat
-    - https://github.com/S-Xin1024
+    #- https://github.com/TrinitroCat
+    #- https://github.com/S-Xin1024
 
 # Site Verification Settings
 webmaster_verifications:
