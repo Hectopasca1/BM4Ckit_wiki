@@ -27,10 +27,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://hectopasca1.github.io"
 
 github:
-  username: TrinitroCat # GitHub username
+  username: TrinitroCat
 
 github:
-  username: S-Xin1024 # GitHub username
+  username: S-Xin1024 
 
 social:
   # Change to your full name.
@@ -43,9 +43,6 @@ social:
     #- https://twitter.com/username # change to your Twitter homepage
     - https://github.com/TrinitroCat # GitHub homepage
     - https://github.com/S-Xin1024
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
