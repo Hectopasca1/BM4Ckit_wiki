@@ -42,8 +42,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your Twitter homepage
-    #- https://github.com/TrinitroCat
-    #- https://github.com/S-Xin1024
+    - https://github.com/TrinitroCat
+    - https://github.com/S-Xin1024
 
 # Site Verification Settings
 webmaster_verifications:
